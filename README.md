@@ -1,3 +1,4 @@
 # Practica4
 
-Principal.java --> muestra un "hola mundo" y la fecha y hora actual
+Principal.java --> Programa principal que crea un array de usuarios y lo muestra
+Usuario.java --> Clase usuario con metodo mostrarDatos()
